@@ -2,7 +2,7 @@
 A simple, user-friendly Point of Sale (POS) system built with HTML, CSS, and JavaScript. This web-based application allows small businesses to manage sales, track inventory, apply discounts, and generate printable invoices — all in a clean and responsive interface.
 
 # Features
-- Product catalog with dynamic search
+- Product catalog with dynamic search 
 
 - Shopping cart with add, update quantity, and remove functionality
 
