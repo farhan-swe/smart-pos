@@ -30,7 +30,7 @@ Prerequisites
 - Clone or download the repository:
 
 ```
-git clone https://github.com/khdxsohee/smart-pos.git
+git clone https://github.com/farhan-swe/smart-pos.git
 ```
 
 
@@ -69,5 +69,5 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project is licensed under the MIT License. See LICENSE for details.
 
 # Contact
-For questions or support, reach out at [khdxsohee](https://github.com/khdxsohee)
+For questions or support, reach out at [farhan-swe](https://github.com/farhan-swe)
 
